@@ -1,0 +1,1 @@
+{"mapName":"mainframe_vs_control_simple","playerPaths":["Bots/PythonAI/PlayerAI_version5/PlayerAI.py","Bots/PythonAI/AdiNairv1/PlayerAI.java"],"maxResponseTime":400,"turnLimit":201,"portNumber":4461,"serverTimeout":86400000,"playerLaunchTypes":["AI","AI"]}

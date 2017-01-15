@@ -1,0 +1,1874 @@
+[130797002] Using port 4461
+Server waiting for client
+Connected player with UUID PlayerAI_version5
+Assigned index 0 (Amber)
+Server waiting for client
+Connected player with UUID AdiNairv1
+Assigned index 1 (Blue)
+PlayerAI_version5 gained 200 points for capturing a control point
+AdiNairv1 gained 200 points for capturing a control point
+[0] PlayerAI_version5 (Comm open) - sending GET_READY...
+[0] PlayerAI_version5 (Comm open) - Ready!
+[1] AdiNairv1 (Comm open) - sending GET_READY...
+[1] AdiNairv1 (Comm open) - Ready!
+[130808495] Asking 0 for move
+[130808495] Asking 1 for move
+[130808522] Got 0's move
+[130808559] Got 1's move
+[130808559] ===== Move Frame 0 ===========
+[130808559] ==============================
+XXXXXXXXXXXXXXX
+X NX NXNXN XN X
+X+ +   +   + +X
+XXXhXX XfXXeXXX
+X    g        X
+X XXX XXX XXX+X
+X +         B X
+XX XXX+X+XXX XX
+X A         + X
+X+XXX XXX XXX X
+X a           X
+XXX XXbXcXXdXXX
+X+ +   +   + +X
+X NX NXNXN XN X
+XXXXXXXXXXXXXXX
+[130809074] Asking 0 for move
+[130809074] Asking 1 for move
+[130809083] Got 1's move
+[130809088] Got 0's move
+[130809089] ===== Move Frame 1 ===========
+[130809089] ==============================
+AdiNairv1 gained 200 points for capturing a control point
+[130809089] Control Point Andrew captured by BLUE
+AdiNairv1 gained 200 points for capturing a control point
+[130809090] Control Point Felix captured by BLUE
+PlayerAI_version5 gained 200 points for capturing a control point
+[130809090] Control Point Garret captured by AMBER
+AdiNairv1 gained 200 points for capturing a control point
+[130809090] Control Point Jane captured by BLUE
+PlayerAI_version5 gained 200 points for capturing a control point
+[130809090] Control Point Liam captured by AMBER
+XXXXXXXXXXXXXXX
+X BX NXBXN XB X
+X+h+   f   e +X
+XXX XX X XX XXX
+X   g         X
+X XXX XXX XXX+X
+X +         B X
+XX XXX+X+XXX XX
+X A         + X
+XaXXX XXX XXX X
+X             X
+XXX XX XcXX XXX
+X+ +   b   d +X
+X NX NXAXN XA X
+XXXXXXXXXXXXXXX
+[130809604] Asking 0 for move
+[130809605] Asking 1 for move
+[130809623] Got 1's move
+[130809636] Got 0's move
+[130809637] ===== Move Frame 2 ===========
+[130809638] ==============================
+PlayerAI_version5 gained 50 points for obtaining a pick up
+PlayerAI_version5 gained 50 points for obtaining a pick up
+AdiNairv1 gained 50 points for obtaining a pick up
+AdiNairv1 gained 50 points for obtaining a pick up
+PlayerAI_version5 gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXX
+X BX NXBXN XB X
+Xh +   f   e +X
+XXXgXX X XX XXX
+X             X
+X XXX XXX XXX+X
+X +         B X
+XX XXX+X+XXX XX
+X A         + X
+XaXXX XXX XXX X
+X             X
+XXX XX XcXX XXX
+X+ +   b   d +X
+X NX NXAXN XA X
+XXXXXXXXXXXXXXX
+[130810152] Asking 1 for move
+[130810152] Asking 0 for move
+[130810165] Got 1's move
+[130810171] Got 0's move
+[130810171] ===== Move Frame 3 ===========
+[130810171] ==============================
+AdiNairv1 gained 50 points for obtaining a pick up
+AdiNairv1 gained 200 points for capturing a control point
+[130810173] Control Point Donna captured by BLUE
+PlayerAI_version5 gained 200 points for capturing a control point
+[130810174] Control Point Emily captured by AMBER
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+Xh +  f     e+X
+XXX XX X XX XXX
+X g           X
+X XXX XXX XXX+X
+X +         B X
+XX XXX+X+XXX XX
+XaA         + X
+X XXX XXX XXX X
+X       c     X
+XXX XX X XX XXX
+X+ +  b     d+X
+X NX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130810680] Asking 1 for move
+[130810691] Got 1's move
+[130810731] Asking 0 for move
+[130810757] Got 0's move
+[130810757] ===== Move Frame 4 ===========
+[130810757] ==============================
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X h+ f       eX
+XXX XX X XX XXX
+X             X
+XgXXX XXX XXX+X
+X +         B X
+XXaXXX+X+XXX XX
+X A         + X
+X XXX XXXcXXX X
+X             X
+XXX XX X XX XXX
+X+ + b       dX
+X NX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130811267] Asking 0 for move
+[130811267] Asking 1 for move
+[130811276] Got 1's move
+[130811282] Got 0's move
+[130811283] ===== Move Frame 5 ===========
+[130811283] ==============================
+PlayerAI_version5 gained 50 points for obtaining a pick up
+AdiNairv1 gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X  +f        eX
+XXXhXX X XX XXX
+X             X
+XgXXX XXX XXX+X
+X +         B X
+XXaXXX+X+XXX XX
+X A      c  + X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X+ +b        dX
+X NX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130811790] Asking 1 for move
+[130811790] Asking 0 for move
+[130811793] Got 1's move
+[130811793] Got 0's move
+[130811794] ===== Move Frame 6 ===========
+[130811794] ==============================
+PlayerAI_version5 gained 200 points for capturing a control point
+[130811794] Control Point Charles captured by AMBER
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X  f        e X
+XXX XX X XX XXX
+X   h         X
+XgXXX XXX XXX+X
+X +         B X
+XXaXXX+XcXXX XX
+X A         + X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X+ b        d X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130812298] Asking 0 for move
+[130812298] Asking 1 for move
+[130812310] Got 1's move
+[130812342] Got 0's move
+[130812342] ===== Move Frame 7 ===========
+[130812342] ==============================
+PlayerAI_version5 gained 50 points for obtaining a pick up
+AdiNairv1 gained 50 points for obtaining a pick up
+PlayerAI_version5 gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X  f          X
+XXX XX X XXeXXX
+X             X
+XgXXXhXXX XXX+X
+X +         B X
+XXaXXX+XcXXX XX
+X A         + X
+X XXX XXX XXX X
+X             X
+XXX XX X XXdXXX
+X+ b          X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130812852] Asking 1 for move
+[130812852] Asking 0 for move
+[130812869] Got 1's move
+[130812872] Got 0's move
+[130812873] ===== Move Frame 8 ===========
+[130812873] ==============================
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXXfXX X XX XXX
+X           e X
+XgXXX XXX XXX+X
+X +  h c    B X
+XXaXXX+X XXX XX
+X A         + X
+X XXX XXX XXX X
+X           d X
+XXX XX X XX XXX
+X+b           X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130813386] Asking 0 for move
+[130813386] Asking 1 for move
+[130813394] Got 1's move
+[130813401] Got 0's move
+[130813402] ===== Move Frame 9 ===========
+[130813402] ==============================
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130813412] AMBER.CHARLIE hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X f           X
+XgXXX XXX XXXeX
+X +    c    B X
+XXaXXXhX XXX XX
+X A         + X
+X XXX XXX XXXdX
+X             X
+XXX XX X XX XXX
+Xb            X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130814474] Asking 1 for move
+[130814474] Asking 0 for move
+[130814477] Got 1's move
+[130814479] Got 0's move
+[130814479] ===== Move Frame 10 ===========
+[130814479] ==============================
+AdiNairv1 gained 50 points for obtaining a pick up
+PlayerAI_version5 gained 50 points for obtaining a pick up
+AdiNairv1 gained 50 points for obtaining a pick up
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130814480] AMBER.CHARLIE hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X f           X
+XgXXX XXX XXXeX
+X +    c    B X
+XXaXXXhX XXX XX
+X A         d X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+Xb            X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130814992] Asking 0 for move
+[130814992] Asking 1 for move
+[130815002] Got 1's move
+[130815005] Got 0's move
+[130815006] ===== Move Frame 11 ===========
+[130815006] ==============================
+PlayerAI_version5 gained 50 points for obtaining a pick up
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130815007] AMBER.CHARLIE hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXXfXX X XX XXX
+X g         e X
+X XXX XXX XXX X
+X a   hc    B X
+XX XXX X XXX XX
+X A         d X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X b           X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130815513] Asking 1 for move
+[130815513] Asking 0 for move
+[130815517] Got 1's move
+[130815520] Got 0's move
+[130815520] ===== Move Frame 12 ===========
+[130815520] ==============================
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130815520] AMBER.ALPHA hits BLUE.DELTA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130815520] AMBER.CHARLIE hits BLUE.DELTA for 4 * 2 = 8 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X f        e  X
+XgXXX XXX XXX X
+X a  h c    B X
+XX XXX X XXX XX
+X A        d  X
+X XXX XXX XXX X
+X             X
+XXXbXX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130816029] Asking 0 for move
+[130816029] Asking 1 for move
+[130816033] Got 1's move
+[130816035] Got 0's move
+[130816035] ===== Move Frame 13 ===========
+[130816035] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130816036] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130816036] AMBER.CHARLIE hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X f       e   X
+XgXXX XXX XXX X
+X a h  c    B X
+XX XXX X XXX XX
+X A       d   X
+X XXX XXX XXX X
+X b           X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130816546] Asking 1 for move
+[130816546] Asking 0 for move
+[130816550] Got 1's move
+[130816553] Got 0's move
+[130816553] ===== Move Frame 14 ===========
+[130816554] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130816554] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130816555] AMBER.CHARLIE hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X f      e    X
+XgXXX XXX XXX X
+X ah   c    B X
+XX XXX X XXX XX
+X A      d    X
+XbXXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130817065] Asking 1 for move
+[130817065] Asking 0 for move
+[130817069] Got 1's move
+[130817069] Got 0's move
+[130817069] ===== Move Frame 15 ===========
+[130817070] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130817070] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130817070] AMBER.CHARLIE hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X f     e     X
+XgXXX XXX XXX X
+X ah   c    B X
+XX XXX X XXX XX
+XbA     d     X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130817580] Asking 0 for move
+[130817580] Asking 1 for move
+[130817582] Got 1's move
+[130817584] Got 0's move
+[130817585] ===== Move Frame 16 ===========
+[130817585] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130817585] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130817586] AMBER.CHARLIE hits BLUE.DELTA for 4 * 2 = 8 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130817586] AMBER.BRAVO hits BLUE.DELTA for 8 * 2 = 16 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X      e      X
+XgXXX XXX XXX X
+X ah   c    B X
+XX XXX X XXX XX
+XbA    d      X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130818080] Asking 0 for move
+[130818081] Asking 1 for move
+[130818083] Got 1's move
+[130818084] Got 0's move
+[130818084] ===== Move Frame 17 ===========
+[130818084] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130818085] AMBER.ALPHA hits BLUE.BRAVO for 8 * 1 = 8 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X  g  e    h  X
+XfXXX XXX XXX X
+X a   c     B X
+XXbXXXdX XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130818590] Asking 0 for move
+[130818590] Asking 1 for move
+[130818593] Got 1's move
+[130818594] Got 0's move
+[130818595] ===== Move Frame 18 ===========
+[130818595] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130818597] AMBER.ALPHA hits BLUE.BRAVO for 8 * 1 = 8 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X g       h   X
+XfXXXeXXX XXX X
+X a  c      B X
+XXbXXXdX XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130819091] Asking 1 for move
+[130819091] Asking 0 for move
+[130819093] Got 1's move
+[130819094] Got 0's move
+[130819094] ===== Move Frame 19 ===========
+[130819094] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130819095] AMBER.ALPHA hits BLUE.BRAVO for 8 * 1 = 8 damage
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130819095] AMBER.CHARLIE hits BLUE.ALPHA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X g      h    X
+XfXXX XXX XXX X
+X a ec      B X
+XXbXXXdX XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130819592] Asking 0 for move
+[130819592] Asking 1 for move
+[130819594] Got 1's move
+[130819595] Got 0's move
+[130819595] ===== Move Frame 20 ===========
+[130819595] ==============================
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130819595] AMBER.ALPHA hits BLUE.ALPHA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130819596] AMBER.CHARLIE hits BLUE.ALPHA for 4 * 2 = 8 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X g     h     X
+XfXXX XXX XXX X
+X ae c      B X
+XXbXXXdX XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130820101] Asking 0 for move
+[130820102] Asking 1 for move
+[130820104] Got 1's move
+[130820105] Got 0's move
+[130820106] ===== Move Frame 21 ===========
+[130820106] ==============================
+PlayerAI_version5 gained 240 points for shooting an enemy unit
+[130820106] AMBER.ALPHA hits BLUE.ALPHA for 8 * 3 = 24 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 120 points for shooting an enemy unit
+[130820106] AMBER.CHARLIE hits BLUE.ALPHA for 4 * 3 = 12 damage
+PlayerAI_version5 gained 240 points for shooting an enemy unit
+[130820106] AMBER.BRAVO hits BLUE.ALPHA for 8 * 3 = 24 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X g    h      X
+XfXXX XXX XXX X
+X ae c      B X
+XXbXXXdX XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130820602] Asking 0 for move
+[130820602] Asking 1 for move
+[130820604] Got 1's move
+[130820605] Got 0's move
+[130820605] ===== Move Frame 22 ===========
+[130820605] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130820605] AMBER.ALPHA hits BLUE.BRAVO for 8 * 1 = 8 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X     h    e  X
+XgXXX XXX XXX X
+X a cd      B X
+XXbXXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130821103] Asking 0 for move
+[130821103] Asking 1 for move
+[130821105] Got 1's move
+[130821106] Got 0's move
+[130821106] ===== Move Frame 23 ===========
+[130821106] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130821107] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130821107] AMBER.CHARLIE hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X       f e   X
+XgXXXhXXX XXX X
+X a cd      B X
+XXbXXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130821603] Asking 0 for move
+[130821603] Asking 1 for move
+[130821605] Got 1's move
+[130821607] Got 0's move
+[130821607] ===== Move Frame 24 ===========
+[130821607] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130821607] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130821607] AMBER.DELTA hits BLUE.DELTA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130821607] AMBER.CHARLIE hits BLUE.DELTA for 4 * 2 = 8 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X      f e    X
+XgXXXhXXX XXX X
+X a cd      B X
+XXbXXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130822103] Asking 0 for move
+[130822103] Asking 1 for move
+[130822106] Got 1's move
+[130822108] Got 0's move
+[130822108] ===== Move Frame 25 ===========
+[130822108] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130822108] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130822108] AMBER.DELTA hits BLUE.DELTA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130822109] AMBER.CHARLIE hits BLUE.DELTA for 4 * 2 = 8 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X     f e     X
+XgXXXhXXX XXX X
+X a cd      B X
+XXbXXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130822613] Asking 0 for move
+[130822613] Asking 1 for move
+[130822615] Got 1's move
+[130822616] Got 0's move
+[130822616] ===== Move Frame 26 ===========
+[130822616] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130822616] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130822616] AMBER.CHARLIE hits BLUE.BRAVO for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X  h   e      X
+XgXXXfXXX XXX X
+X a cd      B X
+XXbXXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130823113] Asking 0 for move
+[130823113] Asking 1 for move
+[130823115] Got 1's move
+[130823116] Got 0's move
+[130823116] ===== Move Frame 27 ===========
+[130823117] ==============================
+PlayerAI_version5 gained 50 points for obtaining a pick up
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130823117] AMBER.DELTA hits BLUE.BRAVO for 8 * 2 = 16 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130823117] AMBER.CHARLIE hits BLUE.BRAVO for 4 * 2 = 8 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXX XX X XX XXX
+X hg  e       X
+X XXXfXXX XXX X
+X a cd      B X
+XXbXXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130823614] Asking 0 for move
+[130823614] Asking 1 for move
+[130823616] Got 1's move
+[130823618] Got 0's move
+[130823618] ===== Move Frame 28 ===========
+[130823618] ==============================
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130823619] AMBER.DELTA hits BLUE.BRAVO for 8 * 2 = 16 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130823619] AMBER.CHARLIE hits BLUE.BRAVO for 4 * 2 = 8 damage
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X             X
+XXXgXXeX XX XXX
+X h           X
+X XXXfXXX XXX X
+X  acd      B X
+XX XXX X XXX XX
+X Ab          X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130824114] Asking 0 for move
+[130824114] Asking 1 for move
+[130824117] Got 1's move
+[130824120] Got 0's move
+[130824120] ===== Move Frame 29 ===========
+[130824120] ==============================
+XXXXXXXXXXXXXXX
+X BX BXBXN XB X
+X  g   e      X
+XXXhXX X XX XXX
+X       f     X
+X XXX XXX XXX X
+X   acd     B X
+XX XXX X XXX XX
+X A b         X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130824618] Asking 1 for move
+[130824618] Asking 0 for move
+[130824621] Got 1's move
+[130824624] Got 0's move
+[130824624] ===== Move Frame 30 ===========
+[130824624] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130824624] AMBER.DELTA hits BLUE.DELTA for 8 * 1 = 8 damage
+AdiNairv1 gained 200 points for capturing a control point
+[130824625] Control Point Hannah captured by BLUE
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h    e     X
+XXX XX X XX XXX
+X      f      X
+X XXX XXX XXX X
+X   acd     B X
+XX XXX X XXX XX
+X A  b        X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130825135] Asking 0 for move
+[130825135] Asking 1 for move
+[130825139] Got 1's move
+[130825152] Got 0's move
+[130825152] ===== Move Frame 31 ===========
+[130825153] ==============================
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h   e      X
+XXX XX X XX XXX
+X     f       X
+X XXX XXX XXX X
+X    acd    B X
+XX XXX X XXX XX
+X A   b       X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130825645] Asking 0 for move
+[130825645] Asking 1 for move
+[130825648] Got 1's move
+[130825650] Got 0's move
+[130825650] ===== Move Frame 32 ===========
+[130825650] ==============================
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XXeX XX XXX
+X             X
+X XXXfXXX XXX X
+X     acd   B X
+XX XXX X XXX XX
+X A    b      X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130826146] Asking 0 for move
+[130826146] Asking 1 for move
+[130826148] Got 1's move
+[130826150] Got 0's move
+[130826150] ===== Move Frame 33 ===========
+[130826150] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130826151] AMBER.ALPHA hits BLUE.BRAVO for 8 * 1 = 8 damage
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X     e       X
+X XXX XXX XXX X
+X    fa cd  B X
+XX XXX XbXXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130826656] Asking 0 for move
+[130826656] Asking 1 for move
+[130826658] Got 1's move
+[130826660] Got 0's move
+[130826660] ===== Move Frame 34 ===========
+[130826660] ==============================
+PlayerAI_version5 gained 240 points for shooting an enemy unit
+[130826660] AMBER.ALPHA hits BLUE.BRAVO for 8 * 3 = 24 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 240 points for shooting an enemy unit
+[130826660] AMBER.DELTA hits BLUE.BRAVO for 8 * 3 = 24 damage
+PlayerAI_version5 gained 120 points for shooting an enemy unit
+[130826660] AMBER.CHARLIE hits BLUE.BRAVO for 4 * 3 = 12 damage
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X             X
+X XXXeXXX XXX X
+X    fa cd  B X
+XX XXX XbXXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130974224] Asking 0 for move
+[130974224] Asking 1 for move
+[130974227] Got 1's move
+[130974230] Got 0's move
+[130974230] ===== Move Frame 35 ===========
+[130974230] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130974231] AMBER.ALPHA hits BLUE.ALPHA for 8 * 1 = 8 damage
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X       f     X
+X XXX XXX XXX X
+X   e a cbd B X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130974738] Asking 1 for move
+[130974738] Asking 0 for move
+[130974742] Got 1's move
+[130974745] Got 0's move
+[130974745] ===== Move Frame 36 ===========
+[130974745] ==============================
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130974745] AMBER.ALPHA hits BLUE.ALPHA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130974745] AMBER.DELTA hits BLUE.BRAVO for 8 * 1 = 8 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130974745] AMBER.CHARLIE hits BLUE.ALPHA for 4 * 2 = 8 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X             X
+X XXX XXXfXXX X
+X   e a cbd B X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130975247] Asking 0 for move
+[130975247] Asking 1 for move
+[130975250] Got 1's move
+[130975253] Got 0's move
+[130975253] ===== Move Frame 37 ===========
+[130975253] ==============================
+PlayerAI_version5 gained 240 points for shooting an enemy unit
+[130975253] AMBER.DELTA hits BLUE.BRAVO for 8 * 3 = 24 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 120 points for shooting an enemy unit
+[130975254] AMBER.CHARLIE hits BLUE.BRAVO for 4 * 3 = 12 damage
+PlayerAI_version5 gained 240 points for shooting an enemy unit
+[130975254] AMBER.BRAVO hits BLUE.BRAVO for 8 * 3 = 24 damage
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X          e  X
+X XXX XXXfXXX X
+X      acbd B X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130975763] Asking 1 for move
+[130975763] Asking 0 for move
+[130975766] Got 1's move
+[130975772] Got 0's move
+[130975772] ===== Move Frame 38 ===========
+[130975772] ==============================
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130975773] Mainframe Kyle neutralized by AMBER
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X       f e   X
+X XXX XXX XXX X
+X       acbdN X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130976277] Asking 0 for move
+[130976277] Asking 1 for move
+[130976281] Got 0's move
+[130976281] Got 1's move
+[130976281] ===== Move Frame 39 ===========
+[130976282] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130976282] AMBER.ALPHA hits BLUE.ALPHA for 8 * 1 = 8 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130976283] AMBER.BRAVO hits BLUE.BRAVO for 8 * 1 = 8 damage
+PlayerAI_version5 gained 200 points for capturing a control point
+[130976283] Mainframe Kyle captured by AMBER
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X      f   e  X
+X XXX XXX XXX X
+X       acb d X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130976787] Asking 0 for move
+[130976787] Asking 1 for move
+[130976789] Got 1's move
+[130976792] Got 0's move
+[130976792] ===== Move Frame 40 ===========
+[130976792] ==============================
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X     f     e X
+X XXX XXXaXXXdX
+X        cb A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130977297] Asking 0 for move
+[130977297] Asking 1 for move
+[130977299] Got 1's move
+[130977301] Got 0's move
+[130977301] ===== Move Frame 41 ===========
+[130977301] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130977301] AMBER.DELTA hits BLUE.ALPHA for 8 * 1 = 8 damage
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X         a e X
+X XXXfXXXbXXXdX
+X        c  A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130977807] Asking 0 for move
+[130977807] Asking 1 for move
+[130977809] Got 1's move
+[130977811] Got 0's move
+[130977811] ===== Move Frame 42 ===========
+[130977811] ==============================
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130977811] AMBER.ALPHA hits BLUE.ALPHA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130977811] AMBER.DELTA hits BLUE.ALPHA for 8 * 2 = 16 damage
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XX XXX
+X         a e X
+X XXX XXXbXXXdX
+X   f    c  A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130978321] Asking 0 for move
+[130978321] Asking 1 for move
+[130978323] Got 1's move
+[130978325] Got 0's move
+[130978325] ===== Move Frame 43 ===========
+[130978325] ==============================
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130978325] AMBER.CHARLIE hits BLUE.BRAVO for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h          X
+XXX XX X XXaXXX
+X         b e X
+X XXX XXX XXX X
+X  f     c  A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130978835] Asking 0 for move
+[130978835] Asking 1 for move
+[130978837] Got 1's move
+[130978839] Got 0's move
+[130978839] ===== Move Frame 44 ===========
+[130978839] ==============================
+AdiNairv1 gained 50 points for neutralizing a control point
+PlayerAI_version5 lost -725 points for losing a control point
+[130978839] Mainframe Barbara neutralized by BLUE
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130978839] Control Point Jane neutralized by AMBER
+XXXXXXXXXXXXXXX
+X gX BXBXB XN X
+X  h       a  X
+XXX XX X XXbXXX
+X           e X
+X XXX XXXcXXX X
+X           A X
+XXfXXX X XXX XX
+X N           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130979350] Asking 0 for move
+[130979350] Asking 1 for move
+[130979361] Got 1's move
+[130979367] Got 0's move
+[130979368] ===== Move Frame 45 ===========
+[130979368] ==============================
+AdiNairv1 gained 200 points for capturing a control point
+[130979368] Mainframe Barbara captured by BLUE
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130979369] Control Point Hannah neutralized by AMBER
+XXXXXXXXXXXXXXX
+X gX BXBXN XN X
+X  h      a   X
+XXX XX X XX XXX
+X         bde X
+X XXX XXX XXX X
+X       c   A X
+XX XXX X XXX XX
+X f           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130979875] Asking 0 for move
+[130979876] Asking 1 for move
+[130979877] Got 1's move
+[130979880] Got 0's move
+[130979880] ===== Move Frame 46 ===========
+[130979880] ==============================
+PlayerAI_version5 gained 200 points for capturing a control point
+[130979881] Control Point Hannah captured by AMBER
+XXXXXXXXXXXXXXX
+X gX BXBXA XN X
+X  h     a    X
+XXX XX X XX XXX
+X         de  X
+X XXX XXXbXXX X
+X      c    A X
+XX XXX X XXX XX
+X B           X
+XfXXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130980390] Asking 0 for move
+[130980390] Asking 1 for move
+[130980392] Got 1's move
+[130980395] Got 0's move
+[130980395] ===== Move Frame 47 ===========
+[130980395] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130980395] AMBER.DELTA hits BLUE.ALPHA for 8 * 1 = 8 damage
+XXXXXXXXXXXXXXX
+X gX BXBXA XN X
+X  h          X
+XXX XX XaXXeXXX
+X         d   X
+X XXX XXX XXX X
+X       b   A X
+XX XXXcX XXX XX
+X B           X
+X XXX XXX XXX X
+X f           X
+XXX XX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130980904] Asking 0 for move
+[130980904] Asking 1 for move
+[130980906] Got 1's move
+[130980908] Got 0's move
+[130980908] ===== Move Frame 48 ===========
+[130980908] ==============================
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130980908] AMBER.DELTA hits BLUE.ALPHA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130980908] AMBER.BRAVO hits BLUE.ALPHA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXX
+X gX BXBXA XN X
+X  h          X
+XXX XX X XXeXXX
+X      a  d   X
+X XXX XXX XXX X
+X       b   A X
+XX XXX X XXX XX
+X B  c        X
+X XXX XXX XXX X
+X             X
+XXXfXX X XX XXX
+X             X
+X AX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130981415] Asking 0 for move
+[130981415] Asking 1 for move
+[130981417] Got 1's move
+[130981419] Got 0's move
+[130981419] ===== Move Frame 49 ===========
+[130981419] ==============================
+AdiNairv1 gained 50 points for neutralizing a control point
+PlayerAI_version5 lost -725 points for losing a control point
+[130981420] Control Point Charles neutralized by BLUE
+XXXXXXXXXXXXXXX
+X gX BXBXA XN X
+X  h          X
+XXX XX X XX XXX
+X     a    e  X
+X XXX XXXdXXX X
+X      b    A X
+XX XXX X XXX XX
+X B c         X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X  f          X
+X NX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130981920] Asking 1 for move
+[130981920] Asking 0 for move
+[130981922] Got 1's move
+[130981925] Got 0's move
+[130981925] ===== Move Frame 50 ===========
+[130981925] ==============================
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130981925] Mainframe Barbara neutralized by AMBER
+AdiNairv1 gained 200 points for capturing a control point
+[130981925] Control Point Charles captured by BLUE
+XXXXXXXXXXXXXXX
+X gX BXBXA XN X
+X  h          X
+XXX XX X XXeXXX
+X             X
+X XXXaXXX XXX X
+X       d   A X
+XX XXXbX XXX XX
+X Nc          X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X             X
+X fX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130982431] Asking 0 for move
+[130982431] Asking 1 for move
+[130982433] Got 1's move
+[130982436] Got 0's move
+[130982436] ===== Move Frame 51 ===========
+[130982436] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130982437] AMBER.DELTA hits BLUE.ALPHA for 8 * 1 = 8 damage
+PlayerAI_version5 gained 200 points for capturing a control point
+[130982437] Mainframe Barbara captured by AMBER
+AdiNairv1 gained 50 points for neutralizing a control point
+PlayerAI_version5 lost -725 points for losing a control point
+[130982437] Control Point Hannah neutralized by BLUE
+XXXXXXXXXXXXXXX
+X gX BXBXN XN X
+X  h      e   X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X   a   d   A X
+XX XXX X XXX XX
+X c  b        X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X  f          X
+X BX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130982943] Asking 1 for move
+[130982943] Asking 0 for move
+[130982944] Got 1's move
+[130982946] Got 0's move
+[130982946] ===== Move Frame 52 ===========
+[130982946] ==============================
+AdiNairv1 gained 50 points for neutralizing a control point
+PlayerAI_version5 lost -725 points for losing a control point
+[130982947] Control Point Emily neutralized by BLUE
+AdiNairv1 gained 200 points for capturing a control point
+[130982947] Control Point Hannah captured by BLUE
+XXXXXXXXXXXXXXX
+X gX BXBXe XN X
+X  h          X
+XXX XX X XX XXX
+X             X
+X XXXaXXXdXXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+XcXXXbXXX XXX X
+X             X
+XXX XX X XX XXX
+X   f         X
+X BX NXAXN XA X
+XXXXXXXXXXXXXXX
+[130983455] Asking 0 for move
+[130983455] Asking 1 for move
+[130983457] Got 1's move
+[130983460] Got 0's move
+[130983460] ===== Move Frame 53 ===========
+[130983460] ==============================
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130983460] AMBER.CHARLIE hits BLUE.BRAVO for 4 * 1 = 4 damage
+AdiNairv1 gained 200 points for capturing a control point
+[130983460] Control Point Emily captured by BLUE
+XXXXXXXXXXXXXXX
+X gX BXBXBeXN X
+X  h          X
+XXX XX X XX XXX
+X    a    d   X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+XcXXX XXX XXX X
+X    b        X
+XXX XX X XX XXX
+X             X
+X BX fXAXN XA X
+XXXXXXXXXXXXXXX
+[130983967] Asking 0 for move
+[130983967] Asking 1 for move
+[130983969] Got 1's move
+[130983972] Got 0's move
+[130983972] ===== Move Frame 54 ===========
+[130983972] ==============================
+PlayerAI_version5 gained 40 points for shooting an enemy unit
+[130983972] AMBER.CHARLIE hits BLUE.BRAVO for 4 * 1 = 4 damage
+AdiNairv1 gained 50 points for neutralizing a control point
+PlayerAI_version5 lost -725 points for losing a control point
+[130983972] Control Point Garret neutralized by BLUE
+AdiNairv1 gained 200 points for capturing a control point
+[130983973] Control Point Jane captured by BLUE
+XXXXXXXXXXXXXXX
+X gX BXBXB XB X
+X  h       e  X
+XXX XXaX XXdXXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+XcXXX XXX XXX X
+X             X
+XXX XXbX XX XXX
+X     f       X
+X BX BXNXN XA X
+XXXXXXXXXXXXXXX
+[130984480] Asking 0 for move
+[130984480] Asking 1 for move
+[130984482] Got 1's move
+[130984484] Got 0's move
+[130984484] ===== Move Frame 55 ===========
+[130984484] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130984484] AMBER.DELTA hits BLUE.ALPHA for 8 * 1 = 8 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130984485] AMBER.BRAVO hits BLUE.BRAVO for 8 * 1 = 8 damage
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130984485] Control Point Donna neutralized by AMBER
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130984485] Control Point Felix neutralized by AMBER
+AdiNairv1 gained 200 points for capturing a control point
+[130984485] Control Point Garret captured by BLUE
+XXXXXXXXXXXXXXX
+X gX NXNXB XB X
+X  h  a    e  X
+XXX XX X XXdXXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X c           X
+XXX XXbX XX XXX
+X             X
+X BX BXfXN XA X
+XXXXXXXXXXXXXXX
+[130984987] Asking 0 for move
+[130984987] Asking 1 for move
+[130984989] Got 1's move
+[130984992] Got 0's move
+[130984992] ===== Move Frame 56 ===========
+[130984992] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130984992] AMBER.ALPHA hits BLUE.DELTA for 8 * 1 = 8 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130984992] AMBER.DELTA hits BLUE.ALPHA for 8 * 1 = 8 damage
+PlayerAI_version5 gained 200 points for capturing a control point
+[130984992] Control Point Donna captured by AMBER
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130984992] Control Point Emily neutralized by AMBER
+PlayerAI_version5 gained 200 points for capturing a control point
+[130984992] Control Point Felix captured by AMBER
+AdiNairv1 gained 200 points for capturing a control point
+[130984992] Control Point Isaac captured by BLUE
+XXXXXXXXXXXXXXX
+X gX AXAXB XB X
+X  h  a   e   X
+XXX XX X XXdXXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXXcXX X XX XXX
+X     b f     X
+X BX NXBXB XA X
+XXXXXXXXXXXXXXX
+[130985502] Asking 0 for move
+[130985502] Asking 1 for move
+[130985503] Got 1's move
+[130985505] Got 0's move
+[130985505] ===== Move Frame 57 ===========
+[130985505] ==============================
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130985506] AMBER.ALPHA hits BLUE.ALPHA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 160 points for shooting an enemy unit
+[130985506] AMBER.DELTA hits BLUE.ALPHA for 8 * 2 = 16 damage
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130985506] AMBER.BRAVO hits BLUE.BRAVO for 8 * 1 = 8 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 200 points for capturing a control point
+[130985506] Control Point Emily captured by AMBER
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130985506] Control Point Garret neutralized by AMBER
+XXXXXXXXXXXXXXX
+X gX AXAXB XB X
+X   h a   e   X
+XXX XX X XXdXXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X   c b f     X
+X BX AXNXB XA X
+XXXXXXXXXXXXXXX
+[130986015] Asking 0 for move
+[130986015] Asking 1 for move
+[130986017] Got 1's move
+[130986019] Got 0's move
+[130986019] ===== Move Frame 58 ===========
+[130986019] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130986019] AMBER.ALPHA hits BLUE.DELTA for 8 * 1 = 8 damage
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130986020] Control Point Charles neutralized by AMBER
+PlayerAI_version5 gained 200 points for capturing a control point
+[130986020] Control Point Garret captured by AMBER
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130986020] Control Point Jane neutralized by AMBER
+XXXXXXXXXXXXXXX
+X gX AXAXB XN X
+X  h  a   ed  X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X  c    f     X
+X NX AXbXB XA X
+XXXXXXXXXXXXXXX
+[130986528] Asking 0 for move
+[130986528] Asking 1 for move
+[130986529] Got 1's move
+[130986531] Got 0's move
+[130986532] ===== Move Frame 59 ===========
+[130986532] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130986532] AMBER.ALPHA hits BLUE.DELTA for 8 * 1 = 8 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 200 points for capturing a control point
+[130986532] Control Point Charles captured by AMBER
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130986532] Control Point Isaac neutralized by AMBER
+PlayerAI_version5 gained 200 points for capturing a control point
+[130986532] Control Point Jane captured by AMBER
+XXXXXXXXXXXXXXX
+X gX AXAXB Xd X
+X  h  a   e   X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X cX AXAXN XA X
+XXXXXXXXXXXXXXX
+[130987034] Asking 0 for move
+[130987034] Asking 1 for move
+[130987035] Got 1's move
+[130987038] Got 0's move
+[130987038] ===== Move Frame 60 ===========
+[130987038] ==============================
+PlayerAI_version5 gained 200 points for capturing a control point
+[130987038] Control Point Isaac captured by AMBER
+XXXXXXXXXXXXXXX
+X gX AXAXB XA X
+X  h   a  ed  X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X  c    f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+[130987544] Asking 0 for move
+[130987544] Asking 1 for move
+[130987546] Got 1's move
+[130987550] Got 0's move
+[130987550] ===== Move Frame 61 ===========
+[130987550] ==============================
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130987550] Control Point Hannah neutralized by AMBER
+XXXXXXXXXXXXXXX
+X gX AXAXN XA X
+X  h    a e   X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXXcXX X XX XXX
+X       fb    X
+X AX AXAXA XA X
+XXXXXXXXXXXXXXX
+[130988059] Asking 0 for move
+[130988060] Asking 1 for move
+[130988061] Got 1's move
+[130988064] Got 0's move
+[130988064] ===== Move Frame 62 ===========
+[130988064] ==============================
+PlayerAI_version5 gained 200 points for capturing a control point
+[130988064] Control Point Hannah captured by AMBER
+XXXXXXXXXXXXXXX
+X gX AXAXa XA X
+X  h      e   X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X c           X
+XXX XX XbXX XXX
+X       f     X
+X AX AXAXA XA X
+XXXXXXXXXXXXXXX
+[130988566] Asking 1 for move
+[130988566] Asking 0 for move
+[130988569] Got 1's move
+[130988571] Got 0's move
+[130988571] ===== Move Frame 63 ===========
+[130988571] ==============================
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  h    ade   X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+XcXXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXA XA X
+XXXXXXXXXXXXXXX
+[130989079] Asking 1 for move
+[130989079] Asking 0 for move
+[130989080] Got 1's move
+[130989083] Got 0's move
+[130989083] ===== Move Frame 64 ===========
+[130989083] ==============================
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  h   ad e   X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+XcA           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+[130989592] Asking 0 for move
+[130989592] Asking 1 for move
+[130989593] Got 1's move
+[130989596] Got 0's move
+[130989596] ===== Move Frame 65 ===========
+[130989596] ==============================
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  h  ad  e   X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XXcXXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+[130990106] Asking 0 for move
+[130990106] Asking 1 for move
+[130990107] Got 1's move
+[130990111] Got 0's move
+[130990111] ===== Move Frame 66 ===========
+[130990111] ==============================
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  h ad   e   X
+XXX XX X XX XXX
+X             X
+X XXX XXX XXX X
+X c         A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+[130990618] Asking 0 for move
+[130990618] Asking 1 for move
+[130990619] Got 1's move
+[130990621] Got 0's move
+[130990621] ===== Move Frame 67 ===========
+[130990622] ==============================
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  had    e   X
+XXX XX X XX XXX
+X             X
+XcXXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+[130991129] Asking 0 for move
+[130991129] Asking 1 for move
+[130991130] Got 1's move
+[130991134] Got 0's move
+[130991134] ===== Move Frame 68 ===========
+[130991134] ==============================
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  hd     e   X
+XXX XX X XX XXX
+X c           X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+[130991635] Asking 0 for move
+[130991635] Asking 1 for move
+[130991637] Got 1's move
+[130991640] Got 0's move
+[130991640] ===== Move Frame 69 ===========
+[130991640] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130991640] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  hd     e   X
+XXXcXX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+[130992144] Asking 0 for move
+[130992144] Asking 1 for move
+[130992145] Got 1's move
+[130992148] Got 0's move
+[130992148] ===== Move Frame 70 ===========
+[130992148] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130992148] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  hd     e   X
+XXXcXX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+[130992656] Asking 0 for move
+[130992656] Asking 1 for move
+[130992658] Got 1's move
+[130992660] Got 0's move
+[130992660] ===== Move Frame 71 ===========
+[130992660] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130992660] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  hd     e   X
+XXXcXX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+[130993165] Asking 0 for move
+[130993165] Asking 1 for move
+[130993166] Got 1's move
+[130993168] Got 0's move
+[130993168] ===== Move Frame 72 ===========
+[130993168] ==============================
+PlayerAI_version5 gained 80 points for shooting an enemy unit
+[130993169] AMBER.ALPHA hits BLUE.CHARLIE for 8 * 1 = 8 damage
+PlayerAI_version5 gained 100 points for destroying an enemy unit
+PlayerAI_version5 gained 50 points for neutralizing a control point
+AdiNairv1 lost -725 points for losing a control point
+[130993169] Control Point Andrew neutralized by AMBER
+XXXXXXXXXXXXXXX
+X gX AXAXA XA X
+X  hd     e   X
+XXXcXX X XX XXX
+X             X
+X XXX XXX XXX X
+X           A X
+XX XXX X XXX XX
+X A           X
+X XXX XXX XXX X
+X             X
+XXX XX X XX XXX
+X       f     X
+X AX AXAXb XA X
+XXXXXXXXXXXXXXX
+PlayerAI_version5 gained 5000 points for eliminating the entire enemy squad while holding their Mainframes
+[130993199] *********Game over!*********
+
+
+[130993199] Score Breakdown: 
+[130993199] PlayerAI_version5 (AMBER Team)
+650 points (13 neutralizations * 50 points) for neutralizing a control point
+395 points (79 tiles * 5 points) for exploring the map
+7720 points (772 total HP damaged * 10 points) for shooting an enemy unit
+32175 points (429 (control points * turns held) * 75 points) for holding a control point
+1600 points (16 kills * 100 points) for destroying an enemy unit
+3200 points (16 captures * 200 points) for capturing a control point
+-3625 points (5 losses * -725 points) for losing a control point
+5000 points for eliminating the entire enemy squad while holding their Mainframes
+450 points (9 pick ups * 50 points) for obtaining a pick up
+166410 points (16641 turns^2 * 10 points) for the game end bonus
+Total Points: 213975
+[130993200] Missed turns: 0
+
+
+[130993200] ===============================================
+[130993200] AdiNairv1 (BLUE Team)
+250 points (5 neutralizations * 50 points) for neutralizing a control point
+250 points (50 tiles * 5 points) for exploring the map
+23100 points (308 (control points * turns held) * 75 points) for holding a control point
+2600 points (13 captures * 200 points) for capturing a control point
+-9425 points (13 losses * -725 points) for losing a control point
+350 points (7 pick ups * 50 points) for obtaining a pick up
+1440 points (72 turns * 20 points) for the turn survival bonus
+Total Points: 18565
+[130993201] Missed turns: 0
+
+
+[130993201] Total Scores: 
+[130993201] PlayerAI_version5 (AMBER Team): 213975
+[130993201] AdiNairv1 (BLUE Team): 18565
+WARNING: C:\Users\Nithin\Documents\GitHub\Orbis Challenge 2016\PyCharm\Cyber Team Zero\Results\PlayerAI_version5.AdiNairv1.mainframe_vs_control_simple.json is being overwritten!
+Exited game loop
